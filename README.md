@@ -6,4 +6,4 @@ As it cannot be beaten, the player can choose different difficulty settings, whi
 
 The game looks like the following:
 
-![TicTAcToe_game](https://github.com/JeremyKraft67/TicTacToe/blob/main/TicTacToe_game.png)
+![TicTAcToe_game](https://github.com/JeremyKraft67/TicTacToe/blob/main/misc/TicTacToe_game.png)
